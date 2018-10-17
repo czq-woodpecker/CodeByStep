@@ -43,7 +43,6 @@ public class Main {
         for (int i = 0; i < 3; i++) {
             arrP[i] = Integer.valueOf(input.substring(i, i + 1));
             arrN[i] = Integer.valueOf(input.substring(i + 3, i + 4));
-
         }
         int per = arrP[0] + arrP[1] + arrP[2];
         int next = arrN[0] + arrN[1] + arrN[2];
@@ -65,7 +64,6 @@ public class Main {
                 }
             }
         }
-
         int minF = 0;
         int minS = 0;
         if (arrN[0] < arrP[0]) {
