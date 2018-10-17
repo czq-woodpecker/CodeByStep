@@ -1,3 +1,4 @@
 # QNote
-## 转载请联系Up主授权
+## 转载请注明出处 https://github.com/Miokowsw/QNote
+## 欢迎 Pull Request 
 
