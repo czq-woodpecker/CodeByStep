@@ -2,7 +2,7 @@
 
 ### 关键字
 
-`Java`、`MySQL`、`Docker`
+`Java`、`MySQL`、`Doc`
 
 ## 目录
 
